@@ -1,6 +1,6 @@
 {
     "name": "echomunge"
-  , "version": "0.0.0-1"
+  , "version": "0.0.1"
   , "description": "Collect text and echo back out text with similar patterns. Pure silliness with no practical purpose."
   , "main": "index.js"
   , "bin": {
